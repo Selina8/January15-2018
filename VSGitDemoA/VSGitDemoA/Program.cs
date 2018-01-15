@@ -12,6 +12,7 @@ namespace VSGitDemoA
         {
             //Code added by Team MemberA
             //Code added by Team MemberB
+            //Code added by me in VS
         }
     }
 }
